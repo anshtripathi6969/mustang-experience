@@ -1,7 +1,9 @@
 # 🏎️ The Mustang Experience | Ultimate Automotive Showcase
 
-![Project Banner](public/hero-video-poster.jpg) 
-> *Note: If you have a screenshot/poster, place it here. Otherwise, the live site speaks for itself.*
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/a728f58c-2b68-436d-a788-9aff4158be07" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/61912647-8d68-4eb0-a600-2e5c32682538" />
+
+
 
 ## 🚀 Overview
 
