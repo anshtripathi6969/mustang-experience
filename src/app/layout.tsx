@@ -28,7 +28,6 @@ export default function RootLayout({
       <body
         className={`${inter.variable} ${oswald.variable} antialiased bg-black text-white`}
       >
-        <div className="noise-overlay" />
         <SmoothScroll>{children}</SmoothScroll>
       </body>
     </html>

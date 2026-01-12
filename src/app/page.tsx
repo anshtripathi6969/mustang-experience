@@ -7,6 +7,8 @@ import Hero from "@/components/Hero";
 import LineupSection from "@/components/LineupSection";
 import HeritageSection from "@/components/HeritageSection";
 import TechGrid from "@/components/TechGrid";
+import TelemetrySection from "@/components/TelemetrySection";
+import GallerySection from "@/components/GallerySection";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 import Preloader from "@/components/Preloader";
@@ -29,6 +31,10 @@ export default function Home() {
         <LineupSection />
         <HeritageSection />
         <TechGrid />
+        <TelemetrySection />
+        <GallerySection />
+
+
 
 
         {/* Final CTA */}
@@ -56,6 +62,7 @@ export default function Home() {
             </div>
           </div>
         </section>
+
       </main>
 
       <Footer />
