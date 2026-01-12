@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏎️ The Mustang Experience | Ultimate Automotive Showcase
 
-## Getting Started
+![Project Banner](public/hero-video-poster.jpg) 
+> *Note: If you have a screenshot/poster, place it here. Otherwise, the live site speaks for itself.*
 
-First, run the development server:
+## 🚀 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**The Mustang Experience** is a "God-Tier" concept website designed to push the boundaries of web interaction and visual fidelity. This project serves as a **technical showcase** demonstrating advanced front-end engineering, creative direction, and high-performance animation techniques.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It is not just a website; it is an **immersive digital showroom**.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 💎 Key Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+*   **🎥 Cinematic Hero Section**: Features a high-definition, auto-playing video background with scroll-based parallax effects for immediate immersion.
+*   **⚡ "Ignition" Preloader**: A custom entrance sequence that sets the tone before the DOM even paints.
+*   **📜 Luxury Smooth Scroll**: Integrated **Lenis** scrolling physics for a "heavy," premium feel typically found in award-winning sites.
+*   **🏎️ High-Octane Interactions**:
+    *   **Heritage Scroll**: Sticky-positioned history timeline.
+    *   **Tech Grid**: Bento-style grid with hover-glow effects and glassmorphism.
+    *   **Horizontal Lineup**: Smooth horizontal scroll translation for vehicle models.
+*   **🎨 Custom Design System**: Built on a strict "Mustang Red" & "Pure Black" palette with custom metallic gradients and neon glow effects.
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+This project is built with the modern "Bleeding Edge" stack:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+*   **Framework**: [Next.js 14](https://nextjs.org/) (App Router, Server Components)
+*   **Language**: [TypeScript](https://www.typescriptlang.org/)
+*   **Styling**: [Tailwind CSS](https://tailwindcss.com/) (v3.4 with custom config)
+*   **Animation**: [Framer Motion](https://www.framer.com/motion/) (Complex orchestrations)
+*   **Scrolling**: [Lenis](https://lenis.darkroom.engineering/)
+*   **Icons**: [Lucide React](https://lucide.dev/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👨‍💻 Built For Showcase
 
-## Deploy on Vercel
+**This project was created solely for the purpose of showcasing my development skills.**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+It demonstrates proficiency in:
+1.  **Performance Optimization**: Handling heavy media assets (video/images) without compromising TTI (Time to Interactive).
+2.  **UX/UI Design**: translating a brand identity ("Aggressive American Muscle") into code.
+3.  **Modern React Patterns**: Using Hooks (`useScroll`, `useTransform`, `useSpring`) effectively.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 👤 Author
+
+**Built with ❤️ and Horsepower by [Ansh Tripathi](https://github.com/anshtripathi6969)**
+
+*Check out the footer for a hidden glow effect!* 😉
