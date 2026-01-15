@@ -17,9 +17,10 @@ It is not just a website; it is an **immersive digital showroom**.
 *   **⚡ "Ignition" Preloader**: A custom entrance sequence that sets the tone before the DOM even paints.
 *   **📜 Luxury Smooth Scroll**: Integrated **Lenis** scrolling physics for a "heavy," premium feel typically found in award-winning sites.
 *   **🏎️ High-Octane Interactions**:
+    *   **Live Telemetry**: Animated SVG dyno graphs and performance metrics.
+    *   **The Collection**: Masonry-style gallery specific to high-res assets.
     *   **Heritage Scroll**: Sticky-positioned history timeline.
     *   **Tech Grid**: Bento-style grid with hover-glow effects and glassmorphism.
-    *   **Horizontal Lineup**: Smooth horizontal scroll translation for vehicle models.
 *   **🎨 Custom Design System**: Built on a strict "Mustang Red" & "Pure Black" palette with custom metallic gradients and neon glow effects.
 
 ## 🛠️ Tech Stack
