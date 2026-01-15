@@ -1,6 +1,4 @@
-@import "@tailwind base";
-@import "@tailwind components";
-@import "@tailwind utilities";
+@import "tailwindcss";
 
 /**
  * GLOBALS.CSS
@@ -10,11 +8,14 @@
  * - Fonts: Inter & Oswald
  */
 
-:root {
+@theme {
   --color-mustang-red: #DC2626;
   --color-mustang-dark: #0a0a0a;
   --font-sans: var(--font-inter);
   --font-mono: var(--font-mono);
+}
+
+:root {
   --foreground-rgb: 255, 255, 255;
   --background-start-rgb: 0, 0, 0;
   --background-end-rgb: 0, 0, 0;
