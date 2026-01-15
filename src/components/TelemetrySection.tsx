@@ -10,6 +10,14 @@ const METRICS = [
     { id: 4, label: "TOP SPEED", value: 180, unit: "MPH", max: 220 },
 ];
 
+/**
+ * TelemetrySection Component
+ * Renders a high-fidelity "Live Data" dashboard.
+ * Features:
+ * - Animated SVG Dyno Graph with gradient fill and scanning laser effect.
+ * - CountUp metric cards for HP, Torque, and G-Force.
+ * - Glassmorphism cards with hover-glow interactions.
+ */
 export default function TelemetrySection() {
     return (
         <section className="min-h-screen bg-black relative flex items-center justify-center py-20 border-t border-white/10">

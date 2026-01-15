@@ -12,6 +12,14 @@ const IMAGES = [
     { src: "/ford7.jpg", alt: "Mustang Gallery 6", span: "md:col-span-2" },
 ];
 
+/**
+ * GallerySection Component
+ * Displays a curated list of high-quality Mustang images in a responsive masonry grid.
+ * Features:
+ * - 3-column irregular grid layout
+ * - Hover scale and grayscale animations
+ * - Gradient overlay blending for seamless background integration
+ */
 export default function GallerySection() {
     return (
         <section className="min-h-screen bg-black relative py-32 overflow-hidden">
